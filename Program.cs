@@ -8,11 +8,18 @@ string [] ResultArray  = new string [rnd.Next(0, StartArray.Length)];
 
 for (int index = 0; index < LengthArray; index++)
 {
-    for(int iteration = rnd.Next(0,4); iteration < 5; iteration++)
+    for(int iteration = rnd.Next(0,10); iteration < rnd.Next(3,10); iteration++)
     {
-        int Position = rnd.Next(0,9);
+        int Position = rnd.Next(0,15);
         if(Position > ResultArray.Length-1) continue;
-        else ResultArray[Position] += StartArray[rnd.Next(0, StartArray.Length-1)];
+        else 
+        {
+            string random = StartArray[rnd.Next(0, StartArray.Length)];
+            
+            if (random.Length !<=3) ResultArray[Position] = random;
+            else random = StartArray[rnd.Next(0, StartArray.Length)];
+        }
+        
     }
 }
 return ResultArray;;
@@ -27,7 +34,7 @@ void PrintStringArray(string [] array)
 }
 
 //Code
-string [] StartingData = new string [] {"Кукла","Ра","123","Строка","Делает","Лежит","Спит","Шкаф","О","№"};
+string [] StartingData = new string [] {"Кукла","Ра","123","Строка","Делает","Лежит","Спит","Шкаф","О","С"};
 Console.WriteLine();
 PrintStringArray(RefreshArray(StartingData));
 Console.ReadKey();
