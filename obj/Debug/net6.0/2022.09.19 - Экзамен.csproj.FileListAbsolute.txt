@@ -1,0 +1,15 @@
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\bin\Debug\net6.0\2022.09.19 - Экзамен.exe
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\bin\Debug\net6.0\2022.09.19 - Экзамен.deps.json
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\bin\Debug\net6.0\2022.09.19 - Экзамен.runtimeconfig.json
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\bin\Debug\net6.0\2022.09.19 - Экзамен.dll
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\bin\Debug\net6.0\2022.09.19 - Экзамен.pdb
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.csproj.AssemblyReference.cache
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.AssemblyInfoInputs.cache
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.AssemblyInfo.cs
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.csproj.CoreCompileInputs.cache
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.dll
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\refint\2022.09.19 - Экзамен.dll
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.pdb
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\2022.09.19 - Экзамен.genruntimeconfig.cache
+C:\Users\STELLS\Desktop\Учёба GB\Обучение GB\Программирование\2022.09.19 - Экзамен\obj\Debug\net6.0\ref\2022.09.19 - Экзамен.dll

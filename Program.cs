@@ -18,6 +18,16 @@ for (int index = 0; index < LengthArray; index++)
 return ResultArray;;
 }
 
+void PrintStringArray(string [] array)
+{
+    for(int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+}
+
 //Code
 string [] StartingData = new string [] {"Кукла","Ра","123","Строка","Делает","Лежит","Спит","Шкаф","О","№"};
-RefreshArray(StartingData);
+Console.WriteLine();
+PrintStringArray(RefreshArray(StartingData));
+Console.ReadKey();
