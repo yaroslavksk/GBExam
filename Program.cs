@@ -12,22 +12,22 @@ for (int index = 0; index < LengthArray; index++)
     {
         int Position = rnd.Next(0,9);
         if(Position > ResultArray.Length-1) continue;
-        else ResultArray[Position] += StartArray[rnd.Next(0, StartArray.Length-1)];
+        else ResultArray[Position] += StartArray[rnd.Next(0, StartArray.Length)]+" ";
     }
 }
-return ResultArray;;
+return ResultArray;
 }
 
 void PrintStringArray(string [] array)
 {
     for(int i = 0; i < array.Length; i++)
     {
-        Console.Write($"{array[i]} ");
+        Console.Write($"{array[i]} | ");
     }
 }
 
 //Code
-string [] StartingData = new string [] {"Кукла","Ра","123","Строка","Делает","Лежит","Спит","Шкаф","О","№"};
+string [] StartingData = new string [] {"Кукла","Ра","123","Строка","Делает","Лежит","Спит","Шкаф","О","№","Хаха","Джокер"};
 Console.WriteLine();
 PrintStringArray(RefreshArray(StartingData));
 Console.ReadKey();
